@@ -1,6 +1,6 @@
 import { io } from "socket.io-client";
 
-const URL = "http://localhost:8888";
+const URL = "https://zz-backend.vercel.app/";
 
 console.log(URL);
 
