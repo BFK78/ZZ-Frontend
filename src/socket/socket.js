@@ -1,6 +1,6 @@
 import { io } from "socket.io-client";
 
-const URL = "http://zz-backend-n.ap-south-1.elasticbeanstalk.com";
+const URL = "https://zz-backend.onrender.com";
 
 console.log(URL);
 
